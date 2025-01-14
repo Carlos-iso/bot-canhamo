@@ -1,0 +1,2 @@
+Receber números do banco de dados
+Remover mensagem do catch e continuar

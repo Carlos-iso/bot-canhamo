@@ -1,0 +1,9 @@
+node_modules
+.wwebjs_auth
+.wwebjs_cache
+Getter number
+tokens
+banList.txt
+banList.json
+out.png
+
